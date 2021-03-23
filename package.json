@@ -1,0 +1,17 @@
+{
+  "name": "Dracula-Van-Helsing-ThemeModalFileManager",
+  "version": "1.0.0",
+  "description": "The Dracula Van Helsing theme for Modal File Manager.",
+  "keywords": [
+    "modalfilemanager"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "mfmtheme": {
+    "name": "Dracula-Van-Helsing-ThemeModalFileManager",
+    "description": "Dracula Helsing theme for Modal File Manager.",
+    "type": 0,
+    "github": "",
+    "main": "dracula-van-helsing.json"
+  }
+}
