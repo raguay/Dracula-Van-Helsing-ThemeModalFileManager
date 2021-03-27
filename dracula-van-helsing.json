@@ -1,4 +1,6 @@
 {
+  "font":"Fira Code, Menlo",
+  "fontSize":"12pt",
   "cursorColor": "#363443",
   "selectedColor": "#414D58",
   "backgroundColor": "#0B0D0F",
@@ -7,6 +9,7 @@
   "normalbackgroundColor": "#80FFEA",
   "insertbackgroundColor": "#8AFF80",
   "visualbackgroundColor": "#FF80BF",
+  "commentColor": "#708CA9",
   "Cyan": "#80FFEA",
   "Green": "#8AFF80",
   "Orange": "#FFCA80",
